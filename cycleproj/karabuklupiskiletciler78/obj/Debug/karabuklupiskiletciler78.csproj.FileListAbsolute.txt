@@ -1,0 +1,16 @@
+C:\Users\Serhan\source\repos\karabuklupiskiletciler78\karabuklupiskiletciler78\bin\Debug\karabuklupiskiletciler78.exe.config
+C:\Users\Serhan\source\repos\karabuklupiskiletciler78\karabuklupiskiletciler78\bin\Debug\karabuklupiskiletciler78.exe
+C:\Users\Serhan\source\repos\karabuklupiskiletciler78\karabuklupiskiletciler78\bin\Debug\karabuklupiskiletciler78.pdb
+C:\Users\Serhan\source\repos\karabuklupiskiletciler78\karabuklupiskiletciler78\obj\Debug\karabuklupiskiletciler78.csproj.AssemblyReference.cache
+C:\Users\Serhan\source\repos\karabuklupiskiletciler78\karabuklupiskiletciler78\obj\Debug\karabuklupiskiletciler78.csproj.SuggestedBindingRedirects.cache
+C:\Users\Serhan\source\repos\karabuklupiskiletciler78\karabuklupiskiletciler78\obj\Debug\karabuklupiskiletciler78.Form1.resources
+C:\Users\Serhan\source\repos\karabuklupiskiletciler78\karabuklupiskiletciler78\obj\Debug\karabuklupiskiletciler78.Properties.Resources.resources
+C:\Users\Serhan\source\repos\karabuklupiskiletciler78\karabuklupiskiletciler78\obj\Debug\karabuklupiskiletciler78.csproj.GenerateResource.cache
+C:\Users\Serhan\source\repos\karabuklupiskiletciler78\karabuklupiskiletciler78\obj\Debug\karabuklupiskiletciler78.csproj.CoreCompileInputs.cache
+C:\Users\Serhan\source\repos\karabuklupiskiletciler78\karabuklupiskiletciler78\obj\Debug\karabuklupiskiletciler78.exe
+C:\Users\Serhan\source\repos\karabuklupiskiletciler78\karabuklupiskiletciler78\obj\Debug\karabuklupiskiletciler78.pdb
+C:\Users\Serhan\source\repos\karabuklupiskiletciler78\karabuklupiskiletciler78\bin\Debug\Interop.WMPLib.dll
+C:\Users\Serhan\source\repos\karabuklupiskiletciler78\karabuklupiskiletciler78\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Serhan\source\repos\karabuklupiskiletciler78\karabuklupiskiletciler78\obj\Debug\Interop.WMPLib.dll
+C:\Users\Serhan\source\repos\karabuklupiskiletciler78\karabuklupiskiletciler78\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Serhan\source\repos\karabuklupiskiletciler78\karabuklupiskiletciler78\obj\Debug\karabuklupiskiletciler78.csproj.ResolveComReference.cache
